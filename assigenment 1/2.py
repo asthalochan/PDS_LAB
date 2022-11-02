@@ -1,0 +1,8 @@
+a=input("Enter your name \n")
+b=input("Enter your roll no \n")
+c=input("Enter your your Branch \n")
+d=input("Enter your year \n")
+print("the student name is",a)
+print(b)
+print(c)
+print(d)
