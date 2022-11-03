@@ -13,7 +13,7 @@ else:
 if charge<100:
     net = 100  
 elif charge > 400:
-    net = 400 + (400*0.15)
+    net = charge + (charge*0.15)
 else:
     net = charge
 
